@@ -1,6 +1,6 @@
 # 📚 Data Structures and Algorithms (DSA)
 
-Welcome to my personal repository for learning and implementing **Data Structures and Algorithms**. This repository contains well-structured, hand-written code and notes as I explore DSA concepts using recursion, iteration, and problem-solving techniques.
+Welcome to my personal repository for learning and implementing **Data Structures and Algorithms**. This repository contains well-structured, hand-written code and notes as I explore DSA concepts using recursion, dynamic programming, graph algorithms, greedy techniques, and more problem-solving techniques.
 
 ---
 
